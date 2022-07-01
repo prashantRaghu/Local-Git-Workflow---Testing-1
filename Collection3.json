@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "2a9e6fl8-m481-4844-9178-264e9204fbc4",
-		"name": "Second: Collection from local feature branch",
+		"_postman_id": "2a9e6fl8-jlo1-4844-9178-264e9204fbc4",
+		"name": "Third: Collection from local feature branch",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "539613-2a9e6fl8-m481-4844-9178-264e9204fbc4"
+		"_uid": "539613-2a9e6fl8-jlo1-4844-9178-264e9204fbc4"
 	},
 	"item": [],
 	"event": [
